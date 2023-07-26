@@ -1,0 +1,5 @@
+Nota-se que usuários Linux que ja estão abituados a utilizar linhas de comandos,
+possuem uma adaptabilidade muito maior ao git bash devido ao abito e entendimento do shell.
+
+Aqui podemos ver uma gama de comandos linux que podem ser usados no git bash.
+https://www.hostinger.com.br/tutoriais/comandos-linux
